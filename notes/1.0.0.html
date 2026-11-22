@@ -1,0 +1,18 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>BAKE 1.0.0</title><link rel="stylesheet" href="/style.css"></head>
+<body><main class="notes"><h1>BAKE 1.0.0</h1>
+<p>The first release of BAKE: an offline, node-based audio workstation for resampling, on macOS 26 or later with Apple Silicon.</p>
+<p>Wire nodes into a patch, then bake it to a file. Nothing runs in real time, so every node can look at the whole sound, take as long as it needs, and use the GPU.</p>
+<ul>
+<li><strong>75 nodes:</strong> filters, distortion and dynamics; time effects (delay, reverb, granular, beat repeat, stutter, step FX, stretch); spectral nodes (vocoder, spectral resynthesis, fractal filter, OTFT compressor); wavetables for Serum and Vital; routing; and modulation (LFOs, envelopes, followers, clocks, logic).</li>
+<li><strong>Batch processing:</strong> run a patch over a folder, slices of a long recording, or chunks caught at each trigger; sort, split, layer, average, scatter, conform to one tempo and key.</li>
+<li><strong>Modulate anything:</strong> almost every sound-shaping control takes a modulation signal.</li>
+<li><strong>Custom nodes:</strong> save a group of nodes as your own node.</li>
+<li><strong>Deterministic:</strong> the same patch and inputs always bake the same file, bit for bit.</li>
+<li><strong>Updates:</strong> BAKE checks for new versions (Settings › Updates). Every update is signed and notarized.</li>
+</ul>
+<p>The documentation, with a page for every node, is in the wiki: <a href="https://github.com/Bass-Daddy-Devices/BAKE/wiki">https://github.com/Bass-Daddy-Devices/BAKE/wiki</a></p>
+<p>BAKE is open source under the MIT License: <a href="https://github.com/Bass-Daddy-Devices/BAKE">https://github.com/Bass-Daddy-Devices/BAKE</a></p>
+</main></body></html>
