@@ -3,12 +3,21 @@
     <channel>
         <title>BAKE</title>
         <item>
+            <title>0.9.1</title>
+            <pubDate>Sun, 22 Nov 2026 08:12:44 -0400</pubDate>
+            <sparkle:version>18.1</sparkle:version>
+            <sparkle:shortVersionString>0.9.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/Bass-Daddy-Devices/BAKE/releases/download/v0.9.1/BAKE-0.9.1.dmg" length="6788891" type="application/octet-stream" sparkle:edSignature="6+Srg3LktsC1gCHBOU1iHH4/ONcNLijWFjwMMccj4MMbnb670XbPbgSlEWL5fjfZUWLuPpGWdutasWkpdTclDw==" />
+        <sparkle:releaseNotesLink>https://bake.bass-daddy.com/rehearsal/notes/0.9.1.html</sparkle:releaseNotesLink></item>
+        <item>
             <title>0.9.0</title>
             <pubDate>Sun, 22 Nov 2026 07:41:58 -0400</pubDate>
             <sparkle:version>18.0</sparkle:version>
             <sparkle:shortVersionString>0.9.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/Bass-Daddy-Devices/BAKE/releases/download/v0.9.0/BAKE-0.9.0.dmg" length="6788822" type="application/octet-stream" sparkle:edSignature="h+wXBH9q2o+sM8DnZeFIwsz0EVy24QmDb8Btgo7QM5i5IICReo4/oybtRBdmNgYR5erS2yLvNJxJJjbbpBKbBw==" />
-        <sparkle:releaseNotesLink>https://bake.bass-daddy.com/rehearsal/notes/0.9.0.html</sparkle:releaseNotesLink></item>
+            <sparkle:releaseNotesLink>https://bake.bass-daddy.com/rehearsal/notes/0.9.0.html</sparkle:releaseNotesLink>
+        </item>
     </channel>
 </rss>
